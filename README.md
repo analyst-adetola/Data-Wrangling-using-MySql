@@ -1,0 +1,1 @@
+This dataset was downloaded from Kaggle to demonstrate my data wrangling skills. This dataset includes a record of the date, time, location, depth, magnitude, and source of every earthquake with a reported magnitude 5.5 or higher since 1965 to 2016. It has over 23K+ rows and 21 columns.
